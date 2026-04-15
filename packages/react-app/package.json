@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@farcaster/frame-sdk": "^0.1.2",
-    "@farcaster/miniapp-sdk": "^0.1.2",
+    "@farcaster/miniapp-sdk": "^0.3.0",
     "@farcaster/miniapp-wagmi-connector": "^1.0.0",
     "@headlessui/react": "^2.1.10",
     "@heroicons/react": "^2.1.5",
