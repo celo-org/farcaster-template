@@ -90,7 +90,7 @@ Celo Composer is built on Celo to make it simple to build Farcaster Frames using
 
 ## Prerequisites
 
-- Node (v20 or higher)
+- Node (v20.9.0 or higher, required by sharp)
 - Git (v2.38 or higher)
 
 ## Farcaster Miniapps
