@@ -1,2 +1,7 @@
 packages:
   - "packages/*"
+
+overrides:
+  # GHSA-x8mw-p69m-v3mx (CVE-2026-19481): undici@5 (via hardhat 2.x) pins @fastify/busboy ^2.
+  # No hardhat 2.x release moves off undici 5, so force the patched busboy line.
+  "@fastify/busboy": "^3.2.1"
